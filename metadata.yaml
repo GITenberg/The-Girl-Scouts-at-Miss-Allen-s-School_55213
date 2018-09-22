@@ -1,11 +1,16 @@
 _repo: The-Girl-Scouts-at-Miss-Allen-s-School_55213
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55213-h/images/cover2.jpg
 creator:
   author:
     agent_name: Lavell, Edith
     gutenberg_agent_id: '26346'
     url: http://www.gutenberg.org/2009/agents/26346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55213#The-Girl-Scouts-at-Miss-Allen-s-School
 gutenberg_issued: '2017-07-28'
 gutenberg_type: Text
 identifiers:
